@@ -1,0 +1,11 @@
+version=1
+id=2702737581
+title=Belt Wearing Zombies
+description=Zombies might wear belts!
+description=
+description=This mod is intended to provide a logical source of belts for use with Long Term Survival recipes.  Configuration variables can be found in sandbox options.
+description=
+description=[h3]Source Code and Bug Reporting[/h3]
+description=https://github.com/wonkozomboid/BeltWearingZombies
+tags=Build 41;Balance
+visibility=public

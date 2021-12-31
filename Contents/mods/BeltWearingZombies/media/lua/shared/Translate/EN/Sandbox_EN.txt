@@ -1,0 +1,6 @@
+Sandbox_EN = {
+    Sandbox_BeltWearingZombies = "Belt Wearing Zombies",
+
+    Sandbox_BeltPercentage = "Zombie Belt Wearer %",
+    Sandbox_BeltPercentage_tooltip = "The percentage of zombies who wear belts",
+}
